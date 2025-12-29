@@ -1,2 +1,3 @@
-# defi-portfolio-tracker
-Real-time DeFi portfolio tracker aggregating multi-wallet balances with Web3.py and CoinGecko API
+# 🏦 DeFi Portfolio Tracker
+
+Real-time DeFi portfolio aggregator that tracks cryptocurrency balances across multiple wall
